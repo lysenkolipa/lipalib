@@ -1,0 +1,21 @@
+{
+    "name": "lysenkolipa/lipalib",
+    "description": "project",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Olimpiada Lysenko",
+            "email": "olimpiadalys@gmail.com"
+        }
+    ],
+    "require": {
+        "aksafan/yii2-emoji-detection": "^1.0",
+        "phpoffice/phpspreadsheet": "^1.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "lysenkolipa\\lipalib\\": ""
+        }
+    }
+}
